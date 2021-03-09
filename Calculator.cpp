@@ -15,11 +15,11 @@ int main (){
 	
 	//Display value
 	
-	cout<< "The sum is ="<<sum<< endl;
-	cout<<"The difference is ="<<diff<< endl;
-	cout<<"The multiplication is="<<mul<< endl;
-	cout<<"The dividend is ="<<div<< endl;
-	cout<<"The modulus is ="<<mod <<endl;
+	cout<< "The sum is "<<sum<< endl;
+	cout<<"The difference is "<<diff<< endl;
+	cout<<"The multiplication is "<<mul<< endl;
+	cout<<"The dividend is "<<div<< endl;
+	cout<<"The modulus is "<<mod <<endl;
 	
 	
 	
